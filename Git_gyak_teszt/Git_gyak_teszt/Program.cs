@@ -8,6 +8,12 @@ namespace Git_gyak_teszt
         {
             Console.WriteLine("Írj be egy számot: ");
             int szam = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i <= szam; i++)
+            {
+
+            }
+
         }
     }
 }
