@@ -6,7 +6,8 @@ namespace Git_gyak_teszt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Írj be egy számot: ");
+            int szam = int.Parse(Console.ReadLine());
         }
     }
 }
