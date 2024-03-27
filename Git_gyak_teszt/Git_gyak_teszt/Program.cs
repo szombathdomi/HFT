@@ -6,14 +6,14 @@ namespace Git_gyak_teszt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Írj be egy számot: ");
+            Console.Write("Írj be egy számot: ");
             int szam = int.Parse(Console.ReadLine());
 
+            Console.Write("Output: ");
             for (int i = 0; i <= szam; i++)
             {
-
+                Console.Write(i + ",");
             }
-
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\hallgato\Documents\teszt\Git_gyak_teszt\Git_gyak_teszt\bin\Debug\net5.0\Git_gyak_teszt.exe
+C:\Users\hallgato\Documents\teszt\Git_gyak_teszt\Git_gyak_teszt\bin\Debug\net5.0\Git_gyak_teszt.deps.json
+C:\Users\hallgato\Documents\teszt\Git_gyak_teszt\Git_gyak_teszt\bin\Debug\net5.0\Git_gyak_teszt.runtimeconfig.json
+C:\Users\hallgato\Documents\teszt\Git_gyak_teszt\Git_gyak_teszt\bin\Debug\net5.0\Git_gyak_teszt.runtimeconfig.dev.json
+C:\Users\hallgato\Documents\teszt\Git_gyak_teszt\Git_gyak_teszt\bin\Debug\net5.0\Git_gyak_teszt.dll
+C:\Users\hallgato\Documents\teszt\Git_gyak_teszt\Git_gyak_teszt\bin\Debug\net5.0\Git_gyak_teszt.pdb
+C:\Users\hallgato\Documents\teszt\Git_gyak_teszt\Git_gyak_teszt\obj\Debug\net5.0\Git_gyak_teszt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hallgato\Documents\teszt\Git_gyak_teszt\Git_gyak_teszt\obj\Debug\net5.0\Git_gyak_teszt.AssemblyInfoInputs.cache
+C:\Users\hallgato\Documents\teszt\Git_gyak_teszt\Git_gyak_teszt\obj\Debug\net5.0\Git_gyak_teszt.AssemblyInfo.cs
+C:\Users\hallgato\Documents\teszt\Git_gyak_teszt\Git_gyak_teszt\obj\Debug\net5.0\Git_gyak_teszt.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\Documents\teszt\Git_gyak_teszt\Git_gyak_teszt\obj\Debug\net5.0\Git_gyak_teszt.sourcelink.json
+C:\Users\hallgato\Documents\teszt\Git_gyak_teszt\Git_gyak_teszt\obj\Debug\net5.0\Git_gyak_teszt.dll
+C:\Users\hallgato\Documents\teszt\Git_gyak_teszt\Git_gyak_teszt\obj\Debug\net5.0\refint\Git_gyak_teszt.dll
+C:\Users\hallgato\Documents\teszt\Git_gyak_teszt\Git_gyak_teszt\obj\Debug\net5.0\Git_gyak_teszt.pdb
+C:\Users\hallgato\Documents\teszt\Git_gyak_teszt\Git_gyak_teszt\obj\Debug\net5.0\Git_gyak_teszt.genruntimeconfig.cache
+C:\Users\hallgato\Documents\teszt\Git_gyak_teszt\Git_gyak_teszt\obj\Debug\net5.0\ref\Git_gyak_teszt.dll
