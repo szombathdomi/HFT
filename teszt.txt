@@ -1,1 +1,3 @@
 sort írjatok bele
+plusz sor
+megeygs sor
